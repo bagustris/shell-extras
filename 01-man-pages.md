@@ -5,7 +5,7 @@ title: Manual Pages
 
 > ## Learning Objectives {.objectives}
 >
-> *   FIXME
+> *   Understand how to extract information from man pages
 
 We can get help for any Unix command with the `man`
 (short for manual) command.
