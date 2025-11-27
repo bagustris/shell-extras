@@ -1,3 +1,7 @@
+---
+title: "Bash Configurations Demystified"
+---
+
 # Bash Configurations Demystified
 .bash_profile, .profile, & .bashrc Conventions
 

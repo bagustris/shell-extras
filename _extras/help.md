@@ -1,3 +1,7 @@
+---
+title: "How to add a help message to shell script"
+---
+
 # How to add a help message to shell script
 
 ## About functions

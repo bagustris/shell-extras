@@ -9,9 +9,9 @@ objectives:
 - Generate the values of the arguments on the fly using command substitution
 - Understand the difference between pipes/redirection and the command substitution operator
 keypoints: 
-- Command substitution can achieved by using dollar mark, `$(things to be replaced)`.  
-- Things to be replaced can be words and outputs of another command
-- Command substitution can be used for inputs and output of another command, but the output side must be modified to avoid file replacements.
+- "Command substitution can be achieved by using dollar mark, `$(things to be replaced)`."  
+- "Things to be replaced can be words and outputs of another command"
+- "Command substitution can be used for inputs and output of another command, but the output side must be modified to avoid file replacements."
 ---
 
 ## Introduction

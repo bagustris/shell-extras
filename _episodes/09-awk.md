@@ -14,10 +14,10 @@ objectives:
 - "Introduce the array data structure"
 - "Use the for loop to cycle through an array"
 keypoints:  
-- awk can be used to manipulate and filter data, e.g. adding text or printing specific columns
-- NF is a variable that stores the number of fields in the current line
-- Field separator can be specified with the `-F` option, default is space
-- Matching patterns can be specified with `/^PATTERN/` instruction
+- "awk can be used to manipulate and filter data, e.g. adding text or printing specific columns"
+- "NF is a variable that stores the number of fields in the current line"
+- "Field separator can be specified with the `-F` option, default is space"
+- "Matching patterns can be specified with `/^PATTERN/` instruction"
 ---
 
 AWK is a tool for manipulating and filtering complex data. It stands for Aho, Weinberger, and Kernighan, the designers of this program. This chapter requires understanding of previous shell lessons and any programming language.
